@@ -3,11 +3,18 @@
     background-color: blue;
 }
 
-h2{
-    font-size: 30px;
+nav > ul > li{
+    display: inline;
+    margin-left: 39px;
+   
+}
+
+nav li > a{
+    text-decoration: none;
+    font-size: large;
+    font-weight: 400;
     color: white;
-    font-weight: 390px;
-    font-family: 'Courier New', Courier, monospace;text-align: center;
+
 }
 
 .audio{
