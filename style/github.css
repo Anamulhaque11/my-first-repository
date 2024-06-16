@@ -1,10 +1,33 @@
 *{
     margin: 0px;
+    background-color: blue;
 }
 
 h2{
     font-size: 30px;
-    color: red;
+    color: white;
     font-weight: 390px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;text-align: center;
+}
+
+.audio{
+    border: 20px solid red;
+    border-radius: 10px;
+    margin: 39px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px wheat;
+}
+
+.video{
+    border: 20px solid red;
+    border-radius: 20px;
+    margin: 39px;
+    box-shadow: 10px 10px 20px wheat;
+}
+
+.youtube{
+    margin: 39px;
+    border: 20px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px wheat;
 }
